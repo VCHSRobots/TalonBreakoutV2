@@ -7,34 +7,35 @@ December 2018
 
 Epic Robots has designed a breakout board that works with the Talon SRC manufactured by Cross
 the Road Electronics.    This breakout board brings all signals from the data port to connectors
-that provide secure connectors for wiring to limit switches and encoders.  The breakout board
+that provide secure connections for wiring to limit switches and encoders.  The breakout board
 can be secured directly on the Talon, and the sensor/encoder wires can be directed inline with
-the other connectors to improve wire routing on the robot.  The connectors use strong friction
+the other Talon wiring to improve wire routing on the robot.  The connectors use a strong friction
 fit to avoid becoming loose during a match.   This design of the breakout boards (and the
 companion encoder PCB) was designed and tested during the Fall of 2018 by Epic Robotz
 (Team 4415).  The design is being provided here for other teams to use if they see fit.
-The Boards where designed with a free version of Autodesk EAGLE pcb design software.  
+The boards where designed with a free version of Autodesk EAGLE pcb design software.  
 All the files necessary to produce the breakout boards are included in this repository.
 
 Notes
 -----
 
 The PCB is designed to be directly mounted in contact with the Talon.  Since the Talon is made of 
-metal, care has be taken to place vias in areas were there is not metal in contact with the Talon.  In
-addition, when purchasing PCB boards with this design, be sure to select to put solder mask on
-the vias.
+metal, care has been taken to place vias in areas where there is no metal on the Talon. However, 
+when purchasing PCB boards with this design, be sure to put solder mask over the vias (which
+is normally not done when fabricating prototypes).
 
-It is also important to grind away any excess pins on the solder side where the connectors are soldered
-in to place.  We have inclucded pictures to show how this is done.  Note that the PCB traces to the connectors
-are ALL on the top side, so deep grinding of the bottom where the connector pins protrude is okay.
+It is also important to grind away any excess protrusion of through-hole pins on the solder side where
+the connectors are soldered into place.  We have inclucded pictures to show how this is done.  Note
+that the PCB traces to the connectors are ALL on the top side, so deep grinding of the bottom where
+the connector pins protrude is okay.
 
-For additional electrical insulation between the breakout board, we suggest that you epoxy a "gasket" 
-direcly on the PCB.  All the files to 3D print the gasket are provided here as well as pictures
-to show how the glue up is done.
+For additional electrical insulation between the breakout board and the Talon, we suggest that you
+epoxy a "gasket" direcly on the PCB.  All the files to 3D print the gasket are provided here as well
+as pictures to show how the glue up is done.
 
-We have included a design for a soler jig that holes the connectors in place for
-through-hold soldering.  You will need to solder the SMD 2x5 connector with a oven or via a
-microscope and soler paste.
+We have included a design for a solder jig that holds the through-hole connectors in place while
+soldering.  However, you will need to solder the SMD 2x5 connector with an oven or by hand
+using a microscope and solder paste.
 
 
 Bill of Materials
