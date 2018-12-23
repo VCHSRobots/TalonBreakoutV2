@@ -1,5 +1,8 @@
-#Talon Breakout Board, v2
+Talon Breakout Board, v2
+------------------------
+
 Epic Robots, Team 4415
+
 December 2018
 
 Epic Robots has designed a breakout board that works with the Talon SRC manufactured by Cross
