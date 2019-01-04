@@ -1,7 +1,7 @@
 Talon Breakout Board, v2
 ------------------------
 
-VCHS Robots, Epic Robotz, Team 4415
+VCHS Robotics, Epic Robotz, Team 4415
 
 December 2018
 
