@@ -1,11 +1,11 @@
 Talon Breakout Board, v2
 ------------------------
 
-Epic Robots, Team 4415
+VCHS Robots, Epic Robotz, Team 4415
 
 December 2018
 
-Epic Robots has designed a breakout board that works with the Talon SRC manufactured by Cross
+Epic Robotz has designed a breakout board that works with the Talon SRC manufactured by Cross
 the Road Electronics.    This breakout board brings all signals from the data port to connectors
 that provide secure connections for wiring to limit switches and encoders.  The breakout board
 can be secured directly on the Talon, and the sensor/encoder wires can be directed inline with
